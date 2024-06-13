@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files (if applicable)
+/build/
+/dist/
+
+# Logs and runtime data
+logs/
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+*.json.backup
+
+# Uncomment the following line if you're using TypeScript
+# /tsconfig.json
