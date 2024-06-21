@@ -1,6 +1,3 @@
-
-
-
 // controllers/checkoutController.js
 
 const Checkout = require('../models/Checkout');

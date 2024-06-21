@@ -6,10 +6,7 @@ const cors = require('cors');
 const { errorHandler } = require('./middleware/errorMiddleware');
 const authRoutes = require('./routes/authRoutes');
 const bookRoutes = require('./routes/bookRoutes');
-// server.js or app.js
 const cartRoutes = require('./routes/cartRoutes');
-
-// server.js
 const checkoutRoutes = require('./routes/checkoutRoutes');
 
 

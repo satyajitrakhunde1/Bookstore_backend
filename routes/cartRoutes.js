@@ -1,5 +1,4 @@
 
-
 const express = require('express');
 const { getCartItems, addCartItem, removeCartItem } = require('../controllers/cartController');
 const { protect } = require('../middleware/authMiddleware');
